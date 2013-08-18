@@ -6,3 +6,24 @@ This library calls git commands and returns the output.
 Author : Scott Chaconi
 
 Fredrik added some stuff.
+
+
+git help -a
+
+git config system.core.editor emacs
+
+git config --list
+
+git notes    # metadata
+
+git log -p -2   
+
+git log --stat
+
+git remote show origin
+
+git diff --check   # find whitespace error
+
+git ls-remote <URL>
+
+
